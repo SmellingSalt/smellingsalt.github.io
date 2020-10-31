@@ -1,4 +1,12 @@
-# Geometric Random Variable
+---
+title: "Geometric Random Variable"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Probability
+  - Problems
+---
 
 Consider the case of winning a lottery. Either you win it or you don't. Let the probability of winning the lottery be $p$ and the probability of losing it be $(1-p)$
 

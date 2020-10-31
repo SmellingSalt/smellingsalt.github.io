@@ -35,7 +35,7 @@ $$\quad \quad \quad \quad \: \;\mathbb{P}(X=3)=(1-p)\cdot(1-p)\cdot p $$
 
 $$\;\:\mathbb{P}(X=3)=(1-p)^{2}p$$
 
-$$\;\;\;\;\;\mathbb{P}(X=3)=(1-p)^{3-1}p \end{equation}$$
+$$\;\;\;\;\;\mathbb{P}(X=3)=(1-p)^{3-1}p$$
 
 So the answer to **what is the probability that the  $$n^{th}$$ ticket I buy makes me win?** is
 
@@ -98,24 +98,22 @@ $$\mathbb P(X \geq s+t , X \geq t)=\mathbb P(X \geq s+t)$$
 
 So, $$\mathbb P(X \geq s+t \mid X \geq t)$$  can be simplified as
 
-\begin{equation}\mathbb P(X \geq s+t \mid X \geq t)=\frac{\mathbb P(X \geq s+t , X \geq t)}{\mathbb P(X\geq t)}
-\newline
-\quad \quad \quad \quad \quad \quad \quad \quad \quad \;
+$$\mathbb P(X \geq s+t \mid X \geq t)=\frac{\mathbb P(X \geq s+t , X \geq t)}{\mathbb P(X\geq t)}$$
+$$\quad \quad \quad \quad \quad \quad \quad \quad \quad $$
 
-=\frac{\mathbb P(X \geq s+t)}{\mathbb P(X\geq t)}
+$$=\frac{\mathbb P(X \geq s+t)}{\mathbb P(X\geq t)}$$
 
-\newline
-\quad \quad \quad \quad \quad \quad \quad \quad \quad \;
+$$\quad \quad \quad \quad \quad \quad \quad \quad \quad $$
 
-=\frac{\mathbb P(X \geq s+t)}{\mathbb P(X\geq t)}\end{equation}
+$$=\frac{\mathbb P(X \geq s+t)}{\mathbb P(X\geq t)}$$
 
 But from earlier while deriving the CDF, we know that $$\mathbb{P}(X\geq n)=(1-p)^{n-1}$$ so substituting this, we get
 
-$$\mathbb P(X \geq s+t \mid X \geq t)=\frac{(1-p)^{s+t}}{(1-p)^{t}}
-\newline
-\quad \quad \quad \quad \quad \quad \quad \quad \quad \;
+$$\mathbb P(X \geq s+t \mid X \geq t)=\frac{(1-p)^{s+t}}{(1-p)^{t}}$$
 
-=(1-p)^{s}$$
+$$\quad \quad \quad \quad \quad \quad \quad \quad \quad \;$$
+
+$$=(1-p)^{s}$$
 
 Which is nothing but $$\mathbb P(X \geq s)$$, so this implies
 

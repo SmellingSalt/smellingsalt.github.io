@@ -7,6 +7,9 @@ tags:
   - Probability
   - Problems
 ---
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 Consider the case of winning a lottery. Either you win it or you don't. Let the probability of winning the lottery be $$p$$ and the probability of losing it be $$(1-p)$$
 

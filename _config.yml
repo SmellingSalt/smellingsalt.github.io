@@ -18,11 +18,11 @@ email: ssmahara96@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! I am Sawan Singh Mahara. Welcome to my website!
 github_username: SmellingSalt
-minimal_mistakes_skin: mint #default dirt mint sunrise neon aqua
+minimal_mistakes_skin: dark #default dirt mint sunrise neon aqua
 search: true
 
 # Build settings
-markdown: MultiMarkdown #kramdown
+markdown: Kramdown #MultiMarkdown 
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/

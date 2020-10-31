@@ -31,11 +31,11 @@ Finally win on the third with a probability $$p$$
 
 So the question $$\mathbb{P}(X=3)$$ is nothing but
 
-$$\begin{equation} \quad \quad \quad \quad \: \;\mathbb{P}(X=3)=(1-p)\cdot(1-p)\cdot p \newline
+$$\quad \quad \quad \quad \: \;\mathbb{P}(X=3)=(1-p)\cdot(1-p)\cdot p $$
 
-\;\:\mathbb{P}(X=3)=(1-p)^{2}p
-\newline
-\;\;\;\;\;\mathbb{P}(X=3)=(1-p)^{3-1}p \end{equation}$$
+$$\;\:\mathbb{P}(X=3)=(1-p)^{2}p$$
+
+$$\;\;\;\;\;\mathbb{P}(X=3)=(1-p)^{3-1}p \end{equation}$$
 
 So the answer to **what is the probability that the  $$n^{th}$$ ticket I buy makes me win?** is
 

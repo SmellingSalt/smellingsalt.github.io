@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Sawan Singh Mahara"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Hello! I am Sawan Singh Mahara. Welcome to my website!"
   location         : "Bangalore, India"
   email            : "ssmahara96@gmail.com"

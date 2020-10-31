@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: https://smellingsalt.github.io
+    url: /home/
   - title: "Posts"
     url: /posts/
   - title: "Categories"

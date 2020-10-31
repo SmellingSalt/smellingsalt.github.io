@@ -122,4 +122,6 @@ Which is nothing but $$\mathbb P(X \geq s)$$, so this implies
 $$\mathbb P(X \geq s+t \mid X \geq t)=\mathbb P(X \geq s)$$
 
 Which shows that the geometric random variable is in fact memoryless.
-
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>

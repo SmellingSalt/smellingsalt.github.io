@@ -74,6 +74,11 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sawan-singh-mahara-592598136/"
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "https-secnate-github-io"
+
 defaults:
   # _posts
   - scope:

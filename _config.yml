@@ -22,7 +22,7 @@ minimal_mistakes_skin: air #default dirt mint sunrise neon aqua
 search: true
 
 # Build settings
-markdown: kramdown
+markdown: MultiMarkdown #kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/

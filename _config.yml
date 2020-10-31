@@ -75,9 +75,10 @@ footer:
       url: "https://www.linkedin.com/in/sawan-singh-mahara-592598136/"
 
 comments:
-  provider: "disqus"
-  disqus:
-    shortname: "https-secnate-github-io"
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "master"
+    endpoint  : https://{your Staticman v3 API}/v3/entry/github/
 
 defaults:
   # _posts

@@ -6,10 +6,18 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+html {
+  font-size: 16px; // change to whatever
 
-// custom CSS here
-$global-font-family: 'Comic Sans';
-$header-font-family: 'Comic Sans';
-$caption-font-family: 'Comic Sans';
+  @include breakpoint($medium) {
+    font-size: 18px; // change to whatever
+  }
 
-body { background: red; }
+  @include breakpoint($large) {
+    font-size: 20px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 22px; // change to whatever
+  }
+}

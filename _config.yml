@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SSM
+title: Sawan's Blog
 email:ssmahara96@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! I am Sawan Singh Mahara. Welcome to my website!
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Sawan Singh Mahara"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hello! I am Sawan Singh Mahara. Welcome to my website!"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

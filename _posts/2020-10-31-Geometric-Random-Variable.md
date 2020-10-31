@@ -1,5 +1,5 @@
 ---
-title: "Geometric Random Variable"
+title: "Memorylessness of the Geometric Random Variable"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

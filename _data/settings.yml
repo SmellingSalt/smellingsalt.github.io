@@ -5,9 +5,9 @@ title: Kross
 logo: 
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: sawansinghmahara@gmail.com
+phone: Email me for that
+address: Bangalore/Dharwad
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Sawan <br> an M.S Researcher at IIT Dharwad
+  hero-title: Hi! I’m Sawan, <br> an M.S Researcher <br> at IIT Dharwad
 
 social:
 - {icon: "ti-linkedin", link: "#"}

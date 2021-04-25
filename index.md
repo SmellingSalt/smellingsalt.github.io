@@ -9,7 +9,7 @@ sitemap:
 <img src="{{ '/assets/img/bio-photo.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>You can find that <A HREF = "http://www.google.com/">here!</A></p>
+	<p>You can find that <A HREF = "http://sawansinghmahara.github.io/">here!</A></p>
 
 
 </div>

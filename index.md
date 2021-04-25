@@ -9,7 +9,7 @@ sitemap:
 <img src="{{ '/assets/img/bio-photo.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>You can find that <a href="{{ '/' | prepend: https://sawansinghmahara.github.io }}">here!</a> </p>
+	<p>You can find that <a href="{{https://sawansinghmahara.github.io }}">here!</a> </p>
 
 
 </div>

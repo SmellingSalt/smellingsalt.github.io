@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello!
-subtitle: My name is Sawan
+subtitle: I think you are looking for my website.
 sitemap:
   priority: 0.9
 ---
@@ -9,7 +9,7 @@ sitemap:
 <img src="{{ '/assets/img/bio-photo.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>You can find that <a href="{{ '/' | prepend:sawansinghmahara.github.io }}">here!</a> </p>
+	<p>You can find that <a href="{{ '/' | prepend: https://sawansinghmahara.github.io }}">here!</a> </p>
 
 
 </div>

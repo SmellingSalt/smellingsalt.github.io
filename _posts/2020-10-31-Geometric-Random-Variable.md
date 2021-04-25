@@ -1,17 +1,19 @@
 ---
+layout: page
 title: "Memorylessness of the Geometric Random Variable"
-excerpt_separator: "<!--more-->"
-categories:
-  - Blog
+categories: Probability
+date:   2020-10-31 21:21:21 +0530
 tags:
   - Probability
   - Problems
 ---
-Consider the case of winning a lottery. Either you win it or you don't. Let the probability of winning the lottery be $$p$$ and the probability of losing it be $$(1-p)$$
+I wrote this explanation for some teaching assistant work for undergraduates during my Master's. It might be a bit sloppy, but here it goes! 
 
-My strategy is that I keep buying tickets until I win. Then I stop.
+So let's look at a contrived game. Considering winning a lottery, you either win it or you don't. Let the probability of winning the lottery be $$p$$ and the probability of losing it will thus be $$(1-p)$$.
 
-If I ask the question **what is the probability that the  $$n^{th}$$ ticket I buy makes me win?**
+I have the genius strategy buying tickets until I win. Then I stop.
+
+Now I ask the question **what is the probability that the  $$n^{th}$$ ticket I buy makes me win?**
 
 The answer to it is actually uncertain, and so we model it using the help of a random variable called the **geometric random variable**, denoted by $$X$$
 
